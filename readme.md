@@ -290,7 +290,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/lazy.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/lazy.png)
 
 
 ## 懒人配置-含策略组（同步自 [LOWERTOP/Shadowrocket](https://github.com/LOWERTOP/Shadowrocket)）
@@ -305,7 +305,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/lazy_group.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/lazy_group.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/lazy_group.png)
 
 
 ## 鸣谢
