@@ -55,8 +55,8 @@ jobs:
         run: |
           cd release || exit 1
           rm lazy.conf lazy_group.conf
-          curl -O https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
-          curl -O https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
+          curl -O my_rules.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
+          curl -O my_group.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
         
       - name: Remove commits
         run: |
