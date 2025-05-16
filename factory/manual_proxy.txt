@@ -459,11 +459,12 @@ mc-heads.net
 apt.thebigboss.org
 repo.chariz.com
 
-# inner
+# innerIp
 192.168.123.0/24
 10.11.10.0/24
 10.162.1.0/24
 10.162.5.0/24
+# inner网站
 tdoa.tongdun.me
 login-inner.tongdun.cn
 login-inner.tongdun.me
