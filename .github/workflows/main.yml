@@ -29,8 +29,8 @@ jobs:
       - name: Update lazy rules
         run: |
           rm lazy.conf lazy_group.conf
-          curl -O my_rules.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
-          curl -O my_group.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
+          curl -o my_rules.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
+          curl -o my_group.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
