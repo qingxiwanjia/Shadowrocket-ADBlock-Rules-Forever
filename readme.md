@@ -35,7 +35,7 @@
 
 ## 规则列表
 
-![规则选择指南](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/guide.png)
+![规则选择指南](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/guide.png)
 
 规则 | 规定代理的网站 | 规定直连的网站 
 --- | ----------- | ------------- 
@@ -155,7 +155,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_top500_banlist_ad.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_banlist_ad.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_top500_banlist_ad.png)
 
 ## 白名单过滤 + 广告
 
@@ -167,7 +167,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_top500_whitelist_ad.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_whitelist_ad.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_top500_whitelist_ad.png)
 
 
 ## 黑名单过滤
@@ -180,7 +180,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_top500_banlist.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_banlist.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_top500_banlist.png)
 
 
 ## 白名单过滤
@@ -193,7 +193,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_top500_whitelist.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_top500_whitelist.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_top500_whitelist.png)
 
 
 ## 国内外划分 + 广告
@@ -211,7 +211,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_cnip.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_cnip.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_cnip.png)
 
 
 ## 直连去广告
@@ -223,7 +223,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_direct_banad.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_direct_banad.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_direct_banad.png)
 
 
 ## 代理去广告
@@ -236,7 +236,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_proxy_banad.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_proxy_banad.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_proxy_banad.png)
 
 
 ## 回国规则
@@ -249,7 +249,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_backcn.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_backcn.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_backcn.png)
 
 
 ## 回国规则 + 广告
@@ -262,7 +262,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_backcn_ad.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_backcn_ad.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_backcn_ad.png)
 
 
 ## 仅去广告规则
@@ -273,7 +273,7 @@ INTP | Jack of all trades | I use Arch BTW
 
 规则地址：<https://raw.githubusercontent.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/refs/heads/build/sr_ad_only.conf>
 
-![二维码](https://johnshall.github.io/Shadowrocket-ADBlock-Rules-Forever/figure/sr_ad_only.png)
+![二维码](https://github.com/qingxiwanjia/Shadowrocket-ADBlock-Rules-Forever/blob/build/figure/sr_ad_only.png)
 
 
 ----------------------------------------
