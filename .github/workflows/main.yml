@@ -26,11 +26,11 @@ jobs:
       - name: Run auto-build.sh
         run: ./factory/auto_build.sh
       
-      - name: Update lazy rules
-        run: |
-          rm lazy.conf lazy_group.conf
-          curl -o my_rules.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
-          curl -o my_group.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
+      #- name: Update lazy rules
+      #  run: |
+      #    rm lazy.conf lazy_group.conf
+      #    curl -o my_rules.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy.conf
+      #    curl -o my_group.conf https://raw.githubusercontent.com/LOWERTOP/Shadowrocket/main/lazy_group.conf
         
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
